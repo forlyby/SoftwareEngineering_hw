@@ -15371,7 +15371,7 @@
 													"height": 13,
 													"alpha": -3.1282601094069165,
 													"distance": 150.0133327407934,
-													"text": "2.1.1 *[For all RentalBicycle]: getRecords()"
+													"text": "2.1.1 *[For all RentalRecord]: getRecords()"
 												},
 												{
 													"_type": "NodeLabelView",
@@ -16250,7 +16250,7 @@
 									"_parent": {
 										"$ref": "AAAAAAGW1NwgNk+hax8="
 									},
-									"name": "2.1.1 *[For all RentalBicycle]: getRecords()",
+									"name": "2.1.1 *[For all RentalRecord]: getRecords()",
 									"source": {
 										"$ref": "AAAAAAGW1PD+QHB7tms="
 									},
