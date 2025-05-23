@@ -20,4 +20,8 @@ string User::getPhoneNumber() const{
     return phoneNumber;
 }
 
+bool User::isManager(const std::string& id, const std::string& pwd) {
+    return id == "admin" && pwd == "admin";
+}
+
 

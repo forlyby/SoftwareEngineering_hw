@@ -1,6 +1,7 @@
 #include "Logout.h"
 #include "Member.h"
 #include "Manager.h"
+#include "User.h"
 
 bool Logout::tryLogout(const string& id) {
     // 관리자 로그아웃

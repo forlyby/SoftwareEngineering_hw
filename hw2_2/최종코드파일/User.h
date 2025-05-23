@@ -17,6 +17,7 @@ public:
     string getId() const;
     string getPassword() const;
     string getPhoneNumber() const;
+    static bool isManager(const std::string& id, const std::string& pwd);
 };
 
 #endif
