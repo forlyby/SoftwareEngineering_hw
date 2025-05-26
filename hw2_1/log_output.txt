@@ -1,0 +1,8 @@
+[forlyby] Tue May 20 04:08:30 2025 +0900 add final pdf files 19b1ae6
+[forlyby] Sun May 18 19:32:14 2025 +0900 add Analysis class diagram cb5da6d
+[forlyby] Sun May 18 17:18:10 2025 +0900 add Design Class Diagram files, change folder structure 4b9c035
+[forlyby] Sun May 18 16:40:26 2025 +0900 add Communication Diagram files 2e49404
+[forlyby] Wed May 14 15:03:00 2025 +0900 Change files aa629c8
+[forlyby] Wed May 14 02:37:29 2025 +0900 change Requirement List df995c0
+[forlyby] Wed May 14 02:26:26 2025 +0900 add UseCaseDiagram_pdf, UseCaseDescription, RequirementList 932db22
+[forlyby] Tue May 13 22:15:34 2025 +0900 push UseCaseDiagram_hw2 9fc17de
